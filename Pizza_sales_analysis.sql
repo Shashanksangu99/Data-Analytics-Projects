@@ -1,3 +1,6 @@
+# Tableau dashboard link: 'https://public.tableau.com/app/profile/shashank.sangu/viz/PizzaSalesProject_17048234131680/Home'
+
+
 Select * from pizza_sales;
 
 #finding total sales 
